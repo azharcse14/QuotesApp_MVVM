@@ -1,4 +1,4 @@
-package com.azhar.quotesapp_mvvm
+package com.azhar.quotesapp_mvvm.model
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao

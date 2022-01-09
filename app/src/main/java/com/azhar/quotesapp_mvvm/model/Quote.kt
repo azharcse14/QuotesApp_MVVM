@@ -1,4 +1,4 @@
-package com.azhar.quotesapp_mvvm
+package com.azhar.quotesapp_mvvm.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
