@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuotesApp_MVVM.iml" filepath="$PROJECT_DIR$/.idea/modules/QuotesApp_MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuotesApp_MVVM.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuotesApp_MVVM.app.iml" />
     </modules>
   </component>
 </project>
